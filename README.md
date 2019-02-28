@@ -18,6 +18,8 @@ Sales for the given department in the given store| Weekly_Sales|
 Whether the week contains one of the four special holidays|IsHoliday |
 
 
+## Supplementary Data
+
 Table 2:  Code Sheet for the Variables in the Walmart Departments Data Set (`walmart_dept.csv`).
 -------------------------------------------------------------
 Variable              |      Code
@@ -26,3 +28,10 @@ Department Number     | dept.numb |
 Department Name | dept.name  |
 
 *Note: Departments with (sub) in the name indicate subsidiary divisions of larger departments*
+
+Table 3:  Code Sheet for the Variables in the Walmart Stores Data Set (`walmart_stores.csv`).
+-------------------------------------------------------------
+Variable              |      Code
+----------------------|--------------------------------------
+The store number     | Store |
+Size of store | Size  |
